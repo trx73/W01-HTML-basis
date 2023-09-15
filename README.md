@@ -12,6 +12,8 @@ Tijdens de lessen van deze week leer je:
 
 In deze repository vind je 10 oefening terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` *in die map*.
 
+Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://classroom.github.com/a/DVKbsbLg) gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de upload-zone op [Digitap](https://learning.ap.be/course/view.php?id=58872#section-5)!
+
 ## 💡 Belangrijke Termen
 
 | Term                 | Definitie                                                                                                                                  |
