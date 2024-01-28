@@ -1,20 +1,21 @@
-# 💻 LES: WD1 - Week 1: HTML Intro
+# 💻 01. HTML - basis
 
-## 🥅 Overzicht en Leerdoelen
+## 🥅 overzicht en leerdoelen
 
 Tijdens de lessen van deze week leer je:
- - Werken met Github en Github Desktop
- - Visual Studio Code Extensions installeren
- - HTML code schrijven
- - wat tags, elementen, attributes zijn
 
-## 🔍 Week 1: HTML Intro
+- werken met Github en Github Desktop,
+- Visual Studio Code Extensions installeren,
+- HTML-code schrijven,
+- wat tags, elementen, attributes zijn.
 
-In deze repository vind je 10 oefening terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` *in die map*.
+## 🔍 week 1: HTML-basis
 
-Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://classroom.github.com/a/DVKbsbLg) gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de upload-zone op [Digitap](https://learning.ap.be/course/view.php?id=58872#section-5)!
+In deze repository vind je 10 oefening terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` _in die map_.
 
-## 💡 Belangrijke Termen
+Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://classroom.github.com/a/IXe9qs_K) gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de uploadzone op [Digitap](https://learning.ap.be/course/view.php?id=62150#section-5)!
+
+## 💡 belangrijke termen
 
 | Term                 | Definitie                                                                                                                                  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -22,7 +23,7 @@ Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://cl
 | CSS                  | Een taal die gebruikt wordt om de opmaak van een website te bepalen.                                                                       |
 | commentaar           | Een stuk tekst in de code dat genegeerd wordt door de computer. Dit kan gebruikt worden om extra uitleg bij code te geven.                 |
 | browser              | Het programma waarmee je een website kunt bezoeken.                                                                                        |
-| *.html               | Met deze bestands-extensie worden pagina's van een website opgeslagen als document.                                                        |
+| \*.html              | Met deze bestands-extensie worden pagina's van een website opgeslagen als document.                                                        |
 | index.html           | De standaard startpagina van een website. Als je geen pagina meegeeft aan het adres van de website, wordt deze pagina automatisch geladen. |
 | tag                  | Een kleiner dan (<) en groter dan (>) teken waartussen een codewoord staat.                                                                |
 | tagnaam              | Een codewoord dat inhoud aanduidt voor een bepaald doel.                                                                                   |
@@ -46,11 +47,11 @@ Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://cl
 | attribute            | Een deel van de openingstag dat meer informatie geeft over het element.                                                                    |
 | attribute-key        | De naam van het attribute. Dit staat aan de linkerkant van het = teken.                                                                    |
 | attribute-value      | De waarde van het attribute. Dit staat aan de rechterkant van het = teken.                                                                 |
-| src attribute        | Dit attribute geeft een verwijzing naar een extern bestand (zoals een afbeelding of javascript bestand).                                   |
-| alt attribute        | Dit attribute geeft een naam aan een afbeelding. Wanneer de afbeelding zelf niet geladen kan worden, wordt deze naam getoond in de plaats. |
-| href attribute       | Dit attribute geeft een verwijzing naar een andere website of pagina.                                                                      |
+| src-attribute        | Dit attribute geeft een verwijzing naar een extern bestand (zoals een afbeelding of javascript bestand).                                   |
+| alt-attribute        | Dit attribute geeft een naam aan een afbeelding. Wanneer de afbeelding zelf niet geladen kan worden, wordt deze naam getoond in de plaats. |
+| href-attribute       | Dit attribute geeft een verwijzing naar een andere website of pagina.                                                                      |
 
-## 📚 Bronnen
+## 📚 bronnen
 
 - [AP cursus Webtechnologie (HTML)](https://apwt.gitbook.io/g_webtechnologie/html/html-structuur)
 - [w3schools](https://www.w3schools.com)
