@@ -1,15 +1,15 @@
-# 💻 LES: W1 - HTML basis - Oefening 05
+# 💻 01. HTML - basis > oefening 05
 
-## 🛠️ Opdrachten
+## 🛠️ opdrachten
 
 ### `index.html` maken
 
- - [ ] Maak een nieuw bestand genaamd `index.html` aan in deze map.
- - [ ] Open het bestand.
+- [ ] Maak een nieuw bestand genaamd `index.html` aan in deze map.
+- [ ] Open het bestand.
 
-### Voorbeeld Namaken
+### voorbeeld namaken
 
- - [ ] Maak het volgende voorbeeld na met behulp van HTML. Gebruik hiervoor minstens de elementen `title`, `h1`, `h2`, `p`, `q` en `a`.
-    - De url verwijst naar naar https://www.brainyquote.com/quotes/tim_bernerslee_100459
+- [ ] Maak het volgende voorbeeld na met behulp van HTML. Gebruik hiervoor minstens de elementen `title`, `h1`, `h2`, `p`, `q` en `a`.
+  - De url verwijst naar naar https://www.brainyquote.com/quotes/tim_bernerslee_100459
 
 ![Alt text](image.png)
