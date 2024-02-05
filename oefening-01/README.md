@@ -1,6 +1,6 @@
 # 💻 LES: W1 - HTML basis - Oefening 01
 
-## 🛠️ Opdrachten
+## 🛠️ opdrachten
 
 ### `index.html` maken
 
