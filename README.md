@@ -9,15 +9,15 @@ Tijdens de lessen van deze week leer je:
 - HTML-code schrijven,
 - wat tags, elementen, attributes zijn.
 
-## 🔍 week 1: HTML-basis
+## 🔍 week 01: HTML-basis
 
-In deze repository vind je 10 oefening terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` _in die map_.
+In deze repository vind je 10 oefeningen terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` _in die map_.
 
-Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://classroom.github.com/a/IXe9qs_K) gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de uploadzone op [Digitap](https://learning.ap.be/course/view.php?id=62150#section-5)!
+Wanneer je alle oefeningen hebt afgewerkt, kan je op je Github Repo gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de uploadzone op Digitap!
 
 ## 💡 belangrijke termen
 
-| Term                 | Definitie                                                                                                                                  |
+| term                 | definitie                                                                                                                                  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | HTML                 | Een taal die gebruikt wordt om de structuur van een website te bepalen.                                                                    |
 | CSS                  | Een taal die gebruikt wordt om de opmaak van een website te bepalen.                                                                       |
